@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1696883943807,926,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-4,,false,,1060,508,10,10,https://demo.nopcommerce.com/desktops,910,0,462
+1696883943958,774,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-5,,false,,1068,508,10,10,https://demo.nopcommerce.com/desktops,759,0,309
+1696883943661,1071,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-3,,false,,1062,508,10,10,https://demo.nopcommerce.com/desktops,1056,0,606
+1696883943528,1212,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-2,,false,,1076,508,10,10,https://demo.nopcommerce.com/desktops,1212,0,735
+1696883944120,627,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-6,,false,,1064,508,10,10,https://demo.nopcommerce.com/desktops,627,0,170
+1696883943528,1254,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-1,,false,,1066,508,10,10,https://demo.nopcommerce.com/desktops,1254,0,734
+1696883944272,528,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-7,,false,,1068,508,10,10,https://demo.nopcommerce.com/desktops,528,0,124
+1696883944404,574,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-8,,false,,1060,508,11,11,https://demo.nopcommerce.com/desktops,574,0,161
+1696883944554,545,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-9,,false,,1066,508,12,12,https://demo.nopcommerce.com/desktops,545,0,148
+1696883944706,547,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-10,,false,,1070,508,13,13,https://demo.nopcommerce.com/desktops,547,0,114
+1696883944853,521,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-11,,false,,1070,508,14,14,https://demo.nopcommerce.com/desktops,521,0,112
+1696883945002,505,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-12,,false,,1064,508,15,15,https://demo.nopcommerce.com/desktops,505,0,104
+1696883945151,507,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-13,,false,,1066,508,16,16,https://demo.nopcommerce.com/desktops,507,0,102
+1696883945306,480,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-14,,false,,1064,508,17,17,https://demo.nopcommerce.com/desktops,480,0,87
+1696883945456,330,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-15,,false,,1072,508,17,17,https://demo.nopcommerce.com/desktops,330,0,148
+1696883945750,305,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-17,,false,,1070,508,18,18,https://demo.nopcommerce.com/desktops,305,0,118
+1696883945603,493,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-16,,false,,1064,508,19,19,https://demo.nopcommerce.com/desktops,493,0,113
+1696883946056,313,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-19,,false,,1062,508,21,21,https://demo.nopcommerce.com/desktops,313,0,132
+1696883945908,491,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-18,,false,,1064,508,21,21,https://demo.nopcommerce.com/desktops,491,0,110
+1696883946206,502,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-20,,false,,1070,508,23,23,https://demo.nopcommerce.com/desktops,502,0,126
+1696883946356,474,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-21,,false,,1062,508,24,24,https://demo.nopcommerce.com/desktops,474,0,90
+1696883946508,521,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-22,,false,,1064,508,25,25,https://demo.nopcommerce.com/desktops,521,0,150
+1696883946657,487,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-23,,false,,1070,508,26,26,https://demo.nopcommerce.com/desktops,487,0,125
+1696883946800,621,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-24,,false,,1062,508,28,28,https://demo.nopcommerce.com/desktops,621,0,158
+1696883946951,521,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-25,,false,,1062,508,28,28,https://demo.nopcommerce.com/desktops,521,0,125
+1696883947103,508,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-26,,false,,1074,508,29,29,https://demo.nopcommerce.com/desktops,508,0,102
+1696883947255,521,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-27,,false,,1066,508,30,30,https://demo.nopcommerce.com/desktops,521,0,112
+1696883947401,452,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-28,,false,,1064,508,31,31,https://demo.nopcommerce.com/desktops,452,0,91
+1696883947555,325,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-29,,false,,1068,508,31,31,https://demo.nopcommerce.com/desktops,325,0,143
+1696883947712,304,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-30,,false,,1058,508,32,32,https://demo.nopcommerce.com/desktops,304,0,126
+1696883947854,272,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-31,,false,,1062,508,32,32,https://demo.nopcommerce.com/desktops,272,0,112
+1696883948004,474,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-32,,false,,1070,508,35,35,https://demo.nopcommerce.com/desktops,474,0,111
+1696883948162,482,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-33,,false,,1066,508,36,36,https://demo.nopcommerce.com/desktops,482,0,125
+1696883948308,453,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-34,,false,,1066,508,37,37,https://demo.nopcommerce.com/desktops,453,0,99
+1696883948453,450,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-35,,false,,1066,508,38,38,https://demo.nopcommerce.com/desktops,450,0,91
+1696883948608,466,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-36,,false,,1068,508,39,39,https://demo.nopcommerce.com/desktops,466,0,107
+1696883948757,468,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-37,,false,,1074,508,40,40,https://demo.nopcommerce.com/desktops,468,0,104
+1696883948904,490,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-38,,false,,1070,508,41,41,https://demo.nopcommerce.com/desktops,490,0,131
+1696883949053,523,https://demo.nopcommerce.com/desktops,500,Internal Server Error,Thread Group 1-39,,false,,1070,508,42,42,https://demo.nopcommerce.com/desktops,523,0,142
+1696883949201,739,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-40,text,true,,23506,508,44,44,https://demo.nopcommerce.com/desktops,716,0,109
+1696883949355,667,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-41,text,true,,23504,508,45,45,https://demo.nopcommerce.com/desktops,655,0,133
+1696883949502,586,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-42,text,true,,23502,508,45,45,https://demo.nopcommerce.com/desktops,563,0,104
+1696883949801,362,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-44,text,true,,23504,508,46,46,https://demo.nopcommerce.com/desktops,345,0,119
+1696883949652,625,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-43,text,true,,23516,508,47,47,https://demo.nopcommerce.com/desktops,621,0,145
+1696883949949,535,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-45,text,true,,23504,508,48,48,https://demo.nopcommerce.com/desktops,521,0,119
+1696883950332,286,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-5,text,true,,29486,523,49,49,https://demo.nopcommerce.com/build-your-own-computer,279,0,0
+1696883950333,304,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-2,text,true,,29484,523,49,49,https://demo.nopcommerce.com/build-your-own-computer,300,0,0
+1696883950340,297,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-6,text,true,,29484,523,49,49,https://demo.nopcommerce.com/build-your-own-computer,294,0,0
+1696883950332,311,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-3,text,true,,29484,523,49,49,https://demo.nopcommerce.com/build-your-own-computer,306,0,0
+1696883950375,337,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-1,text,true,,29488,523,50,50,https://demo.nopcommerce.com/build-your-own-computer,325,0,0
+1696883950392,330,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-7,text,true,,29482,523,50,50,https://demo.nopcommerce.com/build-your-own-computer,314,0,0
+1696883950100,644,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-46,text,true,,23510,508,50,50,https://demo.nopcommerce.com/desktops,628,0,128
+1696883950249,586,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-47,text,true,,23510,508,50,50,https://demo.nopcommerce.com/desktops,577,0,122
+1696883950333,514,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-4,text,true,,29488,523,51,51,https://demo.nopcommerce.com/build-your-own-computer,502,0,0
+1696883950572,291,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-8,text,true,,29494,523,51,51,https://demo.nopcommerce.com/build-your-own-computer,261,0,0
+1696883950691,248,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-9,text,true,,29490,523,51,51,https://demo.nopcommerce.com/build-your-own-computer,233,0,0
+1696883950400,557,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-48,text,true,,23506,508,51,51,https://demo.nopcommerce.com/desktops,546,0,118
+1696883950847,227,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-10,text,true,,29492,523,52,52,https://demo.nopcommerce.com/build-your-own-computer,210,0,0
+1696883950699,376,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-50,text,true,,23506,508,52,52,https://demo.nopcommerce.com/desktops,365,0,169
+1696883950551,606,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-49,text,true,,23500,508,53,53,https://demo.nopcommerce.com/desktops,598,0,180
+1696883950966,205,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-11,text,true,,29488,523,53,53,https://demo.nopcommerce.com/build-your-own-computer,191,0,0
+1696883951099,185,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-12,text,true,,29484,523,53,53,https://demo.nopcommerce.com/build-your-own-computer,176,0,0
+1696883950849,576,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-51,text,true,,23506,508,54,54,https://demo.nopcommerce.com/desktops,575,0,155
+1696883951250,211,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-13,text,true,,29484,523,55,55,https://demo.nopcommerce.com/build-your-own-computer,206,0,0
+1696883951149,353,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-53,text,true,,23510,508,55,55,https://demo.nopcommerce.com/desktops,349,0,152
+1696883951000,548,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-52,text,true,,23496,508,55,55,https://demo.nopcommerce.com/desktops,547,0,122
+1696883951380,194,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-15,text,true,,29488,523,55,55,https://demo.nopcommerce.com/build-your-own-computer,192,0,0
+1696883951449,329,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-55,text,true,,23504,508,57,57,https://demo.nopcommerce.com/desktops,327,0,118
+1696883951380,433,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-14,text,true,,29486,523,57,57,https://demo.nopcommerce.com/build-your-own-computer,432,0,0
+1696883951647,220,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-17,text,true,,29490,523,57,57,https://demo.nopcommerce.com/build-your-own-computer,217,0,0
+1696883951300,585,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-54,text,true,,23506,508,57,57,https://demo.nopcommerce.com/desktops,570,0,149
+1696883951691,407,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-16,text,true,,29488,523,59,59,https://demo.nopcommerce.com/build-your-own-computer,393,0,0
+1696883951748,354,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-57,text,true,,23508,508,59,59,https://demo.nopcommerce.com/desktops,349,0,133
+1696883951599,518,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-56,text,true,,23514,508,59,59,https://demo.nopcommerce.com/desktops,513,0,119
+1696883951963,223,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-19,text,true,,29484,523,59,59,https://demo.nopcommerce.com/build-your-own-computer,219,0,0
+1696883951991,208,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-18,text,true,,29492,523,60,60,https://demo.nopcommerce.com/build-your-own-computer,207,0,0
+1696883951900,311,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-58,text,true,,23502,508,60,60,https://demo.nopcommerce.com/desktops,310,0,110
+1696883952199,314,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-60,text,true,,23506,508,62,62,https://demo.nopcommerce.com/desktops,310,0,102
+1696883952301,248,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-20,text,true,,29496,523,62,62,https://demo.nopcommerce.com/build-your-own-computer,232,0,0
+1696883952053,550,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-59,text,true,,23498,508,62,62,https://demo.nopcommerce.com/desktops,540,0,116
+1696883952348,404,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-61,text,true,,23500,508,63,63,https://demo.nopcommerce.com/desktops,401,0,146
+1696883952423,454,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-21,text,true,,29482,523,64,64,https://demo.nopcommerce.com/build-your-own-computer,451,0,0
+1696883952501,407,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-62,text,true,,23504,508,64,64,https://demo.nopcommerce.com/desktops,405,0,170
+1696883952622,364,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-22,text,true,,29488,523,65,65,https://demo.nopcommerce.com/build-your-own-computer,363,0,0
+1696883952736,468,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-23,text,true,,29482,523,66,66,https://demo.nopcommerce.com/build-your-own-computer,465,0,0
+1696883953014,276,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-24,text,true,,29484,523,67,67,https://demo.nopcommerce.com/build-your-own-computer,259,0,0
+1696883953065,271,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-25,text,true,,29484,523,67,67,https://demo.nopcommerce.com/build-your-own-computer,255,0,0
+1696883952810,544,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-64,text,true,,23504,508,67,67,https://demo.nopcommerce.com/desktops,543,0,217
+1696883953206,282,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-26,text,true,,29492,523,68,68,https://demo.nopcommerce.com/build-your-own-computer,280,0,0
+1696883953105,429,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-66,text,true,,23506,508,68,68,https://demo.nopcommerce.com/desktops,425,0,189
+1696883952957,681,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-65,text,true,,23512,508,69,69,https://demo.nopcommerce.com/desktops,678,0,253
+1696883953368,275,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-27,text,true,,29488,523,69,69,https://demo.nopcommerce.com/build-your-own-computer,271,0,0
+1696883953474,256,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-29,text,true,,29496,523,70,70,https://demo.nopcommerce.com/build-your-own-computer,251,0,0
+1696883953609,285,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-30,text,true,,29494,523,71,71,https://demo.nopcommerce.com/build-your-own-computer,269,0,0
+1696883953447,496,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-28,text,true,,29484,523,71,71,https://demo.nopcommerce.com/build-your-own-computer,492,0,0
+1696883953719,251,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-31,text,true,,29490,523,71,71,https://demo.nopcommerce.com/build-your-own-computer,249,0,0
+1696883952650,1374,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-63,text,true,,23504,508,72,72,https://demo.nopcommerce.com/desktops,1367,0,909
+1696883953404,625,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-68,text,true,,23506,508,72,72,https://demo.nopcommerce.com/desktops,623,0,234
+1696883953254,791,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-67,text,true,,23502,508,72,72,https://demo.nopcommerce.com/desktops,720,0,234
+1696883953555,516,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-69,text,true,,23508,508,72,72,https://demo.nopcommerce.com/desktops,515,0,141
+1696883953700,417,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-70,text,true,,23500,508,72,72,https://demo.nopcommerce.com/desktops,417,0,199
+1696883954072,172,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-32,text,true,,29486,523,73,73,https://demo.nopcommerce.com/build-your-own-computer,170,0,0
+1696883954238,194,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-33,text,true,,29488,523,74,74,https://demo.nopcommerce.com/build-your-own-computer,191,0,0
+1696883953854,589,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-71,text,true,,23506,508,74,74,https://demo.nopcommerce.com/desktops,589,0,191
+1696883954000,523,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-72,text,true,,23510,508,75,75,https://demo.nopcommerce.com/desktops,523,0,116
+1696883954356,173,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-34,text,true,,29492,523,75,75,https://demo.nopcommerce.com/build-your-own-computer,171,0,0
+1696883954499,172,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-35,text,true,,29496,523,76,76,https://demo.nopcommerce.com/build-your-own-computer,168,0,0
+1696883954151,562,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-73,text,true,,23502,508,76,76,https://demo.nopcommerce.com/desktops,557,0,144
+1696883954302,528,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-74,text,true,,23500,508,77,77,https://demo.nopcommerce.com/desktops,527,0,98
+1696883954669,182,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-36,text,true,,29486,523,77,77,https://demo.nopcommerce.com/build-your-own-computer,179,0,0
+1696883954600,298,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-76,text,true,,23504,508,78,78,https://demo.nopcommerce.com/desktops,298,0,109
+1696883954450,496,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-75,text,true,,23504,508,78,78,https://demo.nopcommerce.com/desktops,495,0,99
+1696883954820,273,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-37,text,true,,29498,523,79,79,https://demo.nopcommerce.com/build-your-own-computer,272,0,0
+1696883954990,200,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-38,text,true,,29490,523,79,79,https://demo.nopcommerce.com/build-your-own-computer,198,0,0
+1696883954749,529,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-77,text,true,,23506,508,80,80,https://demo.nopcommerce.com/desktops,528,0,132
+1696883955171,206,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-39,text,true,,29488,523,81,81,https://demo.nopcommerce.com/build-your-own-computer,205,0,0
+1696883955050,370,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-79,text,true,,23508,508,81,81,https://demo.nopcommerce.com/desktops,370,0,137
+1696883954899,579,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-78,text,true,,23514,508,81,81,https://demo.nopcommerce.com/desktops,576,0,116
+1696883955200,315,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-80,text,true,,23506,508,82,82,https://demo.nopcommerce.com/desktops,299,0,103
+1696883955617,208,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-41,text,true,,29259,795,84,84,https://demo.nopcommerce.com/build-your-own-computer,207,0,0
+1696883955501,350,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-82,text,true,,23510,508,84,84,https://demo.nopcommerce.com/desktops,348,0,128
+1696883955349,520,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-81,text,true,,23506,508,84,84,https://demo.nopcommerce.com/desktops,518,0,112
+1696883955683,214,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-42,text,true,,29259,795,84,84,https://demo.nopcommerce.com/build-your-own-computer,207,0,0
+1696883955544,405,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-40,text,true,,29263,795,85,85,https://demo.nopcommerce.com/build-your-own-computer,404,0,0
+1696883955760,204,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-44,text,true,,29257,795,85,85,https://demo.nopcommerce.com/build-your-own-computer,203,0,0
+1696883955874,206,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-43,text,true,,29253,795,85,85,https://demo.nopcommerce.com/build-your-own-computer,203,0,0
+1696883955800,353,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-84,text,true,,23502,508,86,86,https://demo.nopcommerce.com/desktops,351,0,127
+1696883955649,517,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-83,text,true,,23508,508,86,86,https://demo.nopcommerce.com/desktops,516,0,102
+1696883956082,174,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-45,text,true,,29257,795,87,87,https://demo.nopcommerce.com/build-your-own-computer,171,0,0
+1696883956100,294,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-86,text,true,,23500,508,87,87,https://demo.nopcommerce.com/desktops,290,0,100
+1696883955951,507,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-85,text,true,,23498,508,88,88,https://demo.nopcommerce.com/desktops,506,0,106
+1696883956341,223,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-46,text,true,,29263,795,89,89,https://demo.nopcommerce.com/build-your-own-computer,221,0,0
+1696883956251,349,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-87,text,true,,23500,508,89,89,https://demo.nopcommerce.com/desktops,349,0,121
+1696883956434,197,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-47,text,true,,29257,795,89,89,https://demo.nopcommerce.com/build-your-own-computer,197,0,0
+1696883956399,383,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-88,text,true,,23502,508,90,90,https://demo.nopcommerce.com/desktops,380,0,171
+1696883956671,184,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-50,text,true,,29257,795,91,91,https://demo.nopcommerce.com/build-your-own-computer,177,0,0
+1696883956753,182,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-49,text,true,,29255,795,91,91,https://demo.nopcommerce.com/build-your-own-computer,180,0,0
+1696883956552,438,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-48,text,true,,29261,795,91,91,https://demo.nopcommerce.com/build-your-own-computer,437,0,0
+1696883956699,305,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-90,text,true,,23498,508,92,92,https://demo.nopcommerce.com/desktops,305,0,100
+1696883956550,532,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-89,text,true,,23506,508,92,92,https://demo.nopcommerce.com/desktops,532,0,147
+1696883957097,186,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-53,text,true,,29261,795,93,93,https://demo.nopcommerce.com/build-your-own-computer,182,0,0
+1696883957144,202,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-52,text,true,,29259,795,94,94,https://demo.nopcommerce.com/build-your-own-computer,201,0,0
+1696883956999,356,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-92,text,true,,23504,508,94,94,https://demo.nopcommerce.com/desktops,351,0,137
+1696883956850,517,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-91,text,true,,23498,508,94,94,https://demo.nopcommerce.com/desktops,516,0,109
+1696883957021,395,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-51,text,true,,29265,795,94,94,https://demo.nopcommerce.com/build-your-own-computer,389,0,0
+1696883957150,310,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-93,text,true,,23502,508,94,94,https://demo.nopcommerce.com/desktops,308,0,108
+1696883957375,194,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-55,text,true,,29257,795,95,95,https://demo.nopcommerce.com/build-your-own-computer,193,0,0
+1696883957300,280,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-94,text,true,,23506,508,95,95,https://demo.nopcommerce.com/desktops,280,0,99
+1696883957470,379,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-95,text,true,,23502,508,97,97,https://demo.nopcommerce.com/desktops,378,0,149
+1696883957481,422,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-54,text,true,,29255,795,98,98,https://demo.nopcommerce.com/build-your-own-computer,420,0,0
+1696883957698,223,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-57,text,true,,29253,795,98,98,https://demo.nopcommerce.com/build-your-own-computer,222,0,0
+1696883957600,382,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-96,text,true,,23506,508,98,98,https://demo.nopcommerce.com/desktops,382,0,120
+1696883957805,181,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-58,text,true,,29259,795,98,98,https://demo.nopcommerce.com/build-your-own-computer,181,0,0
+1696883957749,317,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-97,text,true,,23506,508,99,99,https://demo.nopcommerce.com/desktops,317,0,110
+1696883957714,445,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-56,text,true,,29263,795,99,99,https://demo.nopcommerce.com/build-your-own-computer,441,0,0
+1696883958109,194,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-60,text,true,,29261,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,193,0,0
+1696883957901,540,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-98,text,true,,23504,508,100,100,https://demo.nopcommerce.com/desktops,540,0,131
+1696883958199,312,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-100,text,true,,23516,508,100,100,https://demo.nopcommerce.com/desktops,312,0,121
+1696883958347,209,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-61,text,true,,29251,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,204,0,0
+1696883958198,428,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-59,text,true,,29263,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,424,0,0
+1696883958049,584,https://demo.nopcommerce.com/desktops,200,OK,Thread Group 1-99,text,true,,23504,508,100,100,https://demo.nopcommerce.com/desktops,583,0,142
+1696883958505,176,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-62,text,true,,29265,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,172,0,0
+1696883958951,193,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-64,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,192,0,0
+1696883959130,184,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-66,text,true,,29257,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,178,0,0
+1696883959234,195,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-65,text,true,,29261,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,195,0,0
+1696883959621,186,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-63,text,true,,29263,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,185,0,0
+1696883959665,169,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-69,text,true,,29263,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,169,0,0
+1696883959712,179,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-70,text,true,,29265,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,175,0,0
+1696883959625,377,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-68,text,true,,29255,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,374,0,0
+1696883959640,402,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-67,text,true,,29253,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,394,0,0
+1696883960039,177,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-71,text,true,,29255,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,175,0,0
+1696883960117,177,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-72,text,true,,29263,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,177,0,0
+1696883960492,190,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-76,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,190,0,0
+1696883960307,406,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-73,text,true,,29263,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,404,0,0
+1696883960542,175,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-75,text,true,,29265,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,172,0,0
+1696883960425,444,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-74,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,443,0,0
+1696883960873,198,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-77,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,198,0,0
+1696883961014,191,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-79,text,true,,29257,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,190,0,0
+1696883961072,197,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-78,text,true,,29271,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,196,0,0
+1696883961110,178,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-80,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,175,0,0
+1696883961464,185,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-81,text,true,,29257,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,180,0,0
+1696883961446,207,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-82,text,true,,29255,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,206,0,0
+1696883961749,238,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-84,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,238,0,0
+1696883961761,387,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-83,text,true,,29265,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,386,0,0
+1696883961988,180,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-86,text,true,,29253,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,180,0,0
+1696883962054,173,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-85,text,true,,29261,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,171,0,0
+1696883962194,192,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-87,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,191,0,0
+1696883962375,234,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-88,text,true,,29255,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,233,0,0
+1696883962598,189,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-90,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,189,0,0
+1696883962676,196,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-89,text,true,,29265,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,195,0,0
+1696883962949,194,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-92,text,true,,29257,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,193,0,0
+1696883962960,202,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-91,text,true,,29265,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,201,0,0
+1696883963054,191,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-93,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,189,0,0
+1696883963175,173,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-94,text,true,,29259,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,171,0,0
+1696883963444,191,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-95,text,true,,29267,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,188,0,0
+1696883963576,176,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-96,text,true,,29265,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,175,0,0
+1696883963660,179,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-97,text,true,,29261,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,174,0,0
+1696883964036,206,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-98,text,true,,29271,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,200,0,0
+1696883964104,168,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-100,text,true,,29257,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,168,0,0
+1696883964226,184,https://demo.nopcommerce.com/build-your-own-computer,200,OK,Thread Group 1-99,text,true,,29261,795,100,100,https://demo.nopcommerce.com/build-your-own-computer,181,0,0
+1696883973652,262,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-5,text,true,,30700,812,100,100,https://demo.nopcommerce.com/notebooks,261,0,0
+1696883973668,248,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-2,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,246,0,0
+1696883973674,243,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-3,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,240,0,0
+1696883973669,256,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-6,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,256,0,0
+1696883973753,247,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-7,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,243,0,0
+1696883973744,274,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-1,text,true,,30682,812,100,100,https://demo.nopcommerce.com/notebooks,273,0,0
+1696883973896,214,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-8,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,212,0,0
+1696883973970,192,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-9,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,191,0,0
+1696883973879,407,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-4,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,398,0,0
+1696883974105,238,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-10,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,221,0,0
+1696883974202,189,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-11,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,183,0,0
+1696883974319,190,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-12,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,183,0,0
+1696883974492,196,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-13,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,183,0,0
+1696883974606,198,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-15,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,182,0,0
+1696883974845,198,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-14,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,186,0,0
+1696883974901,207,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-17,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,205,0,0
+1696883975131,214,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-16,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,199,0,0
+1696883975216,219,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-19,text,true,,30700,812,100,100,https://demo.nopcommerce.com/notebooks,202,0,0
+1696883975230,213,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-18,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,195,0,0
+1696883975581,195,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-20,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,189,0,0
+1696883975910,371,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-21,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,352,0,0
+1696883975761,553,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-3,text,true,,41302,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,534,0,0
+1696883975763,588,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-5,text,true,,41282,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,575,0,0
+1696883975953,407,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-8,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,388,0,0
+1696883975759,643,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-2,text,true,,41292,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,616,0,0
+1696883975843,560,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-7,text,true,,41292,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,547,0,0
+1696883975860,559,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-1,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,542,0,0
+1696883976016,466,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-22,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,454,0,0
+1696883976003,484,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-9,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,470,0,0
+1696883976233,307,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-11,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,275,0,0
+1696883976186,355,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-10,text,true,,41290,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,324,0,0
+1696883976235,307,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-23,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,285,0,0
+1696883975768,775,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-6,text,true,,41296,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,774,0,0
+1696883976321,257,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-24,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,252,0,0
+1696883976351,261,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-12,text,true,,41280,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,261,0,0
+1696883976129,488,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-4,text,true,,41292,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,483,0,0
+1696883976367,251,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-25,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,240,0,0
+1696883976518,202,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-26,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,199,0,0
+1696883976532,207,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-13,text,true,,41290,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,203,0,0
+1696883976646,259,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-15,text,true,,41282,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,237,0,0
+1696883976673,253,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-27,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,232,0,0
+1696883976760,229,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-29,text,true,,30696,812,100,100,https://demo.nopcommerce.com/notebooks,217,0,0
+1696883976886,242,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-14,text,true,,41290,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,222,0,0
+1696883976924,219,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-30,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,202,0,0
+1696883976951,241,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-17,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,217,0,0
+1696883976998,224,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-31,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,215,0,0
+1696883976975,436,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-28,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,426,0,0
+1696883977189,283,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-16,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,253,0,0
+1696883977274,261,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-32,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,256,0,0
+1696883977278,273,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-19,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,259,0,0
+1696883977286,278,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-18,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,265,0,0
+1696883977464,195,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-33,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,183,0,0
+1696883977557,250,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-34,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,238,0,0
+1696883977619,281,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-20,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,254,0,0
+1696883977700,231,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-35,text,true,,30684,812,100,100,https://demo.nopcommerce.com/notebooks,209,0,0
+1696883977881,253,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-36,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,253,0,0
+1696883978125,233,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-37,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,221,0,0
+1696883978125,284,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-21,text,true,,41298,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,261,0,0
+1696883978220,255,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-38,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,242,0,0
+1696883978325,284,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-22,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,269,0,0
+1696883978408,278,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-39,text,true,,30682,812,100,100,https://demo.nopcommerce.com/notebooks,277,0,0
+1696883978386,312,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-23,text,true,,41290,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,311,0,0
+1696883978420,312,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-24,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,301,0,0
+1696883978460,277,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-25,text,true,,41282,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,261,0,0
+1696883978562,231,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-26,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,223,0,0
+1696883978768,210,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-27,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,208,0,0
+1696883978831,220,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-29,text,true,,41278,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,216,0,0
+1696883978854,274,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-41,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,273,0,0
+1696883978926,212,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-42,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,210,0,0
+1696883978979,218,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-40,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,215,0,0
+1696883978994,209,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-44,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,209,0,0
+1696883978985,251,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-30,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,248,0,0
+1696883979064,236,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-31,text,true,,41290,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,225,0,0
+1696883979109,221,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-43,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,220,0,0
+1696883979253,205,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-28,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,194,0,0
+1696883979286,193,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-45,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,190,0,0
+1696883979378,208,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-32,text,true,,41276,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,206,0,0
+1696883979504,223,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-33,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,215,0,0
+1696883979593,215,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-46,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,208,0,0
+1696883979661,216,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-47,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,208,0,0
+1696883979650,233,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-34,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,230,0,0
+1696883979773,205,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-35,text,true,,41292,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,194,0,0
+1696883979883,248,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-50,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,231,0,0
+1696883979964,249,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-49,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,238,0,0
+1696883979976,281,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-36,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,268,0,0
+1696883980200,249,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-37,text,true,,41290,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,248,0,0
+1696883980019,434,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-48,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,431,0,0
+1696883980313,192,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-53,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,182,0,0
+1696883980318,217,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-38,text,true,,41276,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,213,0,0
+1696883980378,213,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-52,text,true,,30704,812,100,100,https://demo.nopcommerce.com/notebooks,203,0,0
+1696883980445,192,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-51,text,true,,30698,812,100,100,https://demo.nopcommerce.com/notebooks,188,0,0
+1696883980528,216,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-39,text,true,,41282,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,211,0,0
+1696883980598,187,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-55,text,true,,30684,812,100,100,https://demo.nopcommerce.com/notebooks,184,0,0
+1696883980948,301,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-3,text,true,,19115,818,100,100,https://demo.nopcommerce.com/electronics,301,0,0
+1696883980950,311,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-57,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,311,0,0
+1696883980969,293,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-41,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,292,0,0
+1696883980984,322,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-5,text,true,,19117,818,100,100,https://demo.nopcommerce.com/electronics,322,0,0
+1696883980993,340,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-8,text,true,,19113,818,100,100,https://demo.nopcommerce.com/electronics,340,0,0
+1696883980981,358,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-42,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,334,0,0
+1696883981035,318,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-2,text,true,,19123,818,100,100,https://demo.nopcommerce.com/electronics,317,0,0
+1696883981051,344,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-1,text,true,,19115,818,100,100,https://demo.nopcommerce.com/electronics,343,0,0
+1696883981046,352,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-44,text,true,,41278,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,339,0,0
+1696883981017,454,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-58,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,451,0,0
+1696883981122,367,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-9,text,true,,19121,818,100,100,https://demo.nopcommerce.com/electronics,367,0,0
+1696883981036,486,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-7,text,true,,19117,818,100,100,https://demo.nopcommerce.com/electronics,484,0,0
+1696883981038,484,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-40,text,true,,41290,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,434,0,0
+1696883981175,353,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-10,text,true,,19127,818,100,100,https://demo.nopcommerce.com/electronics,351,0,0
+1696883981175,356,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-11,text,true,,19115,818,100,100,https://demo.nopcommerce.com/electronics,355,0,0
+1696883981172,382,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-43,text,true,,41298,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,370,0,0
+1696883980935,634,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-54,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,631,0,0
+1696883981177,411,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-6,text,true,,19117,818,100,100,https://demo.nopcommerce.com/electronics,409,0,0
+1696883981246,380,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-12,text,true,,19119,818,100,100,https://demo.nopcommerce.com/electronics,377,0,0
+1696883981251,399,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-4,text,true,,19119,818,100,100,https://demo.nopcommerce.com/electronics,399,0,0
+1696883981323,368,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-45,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,359,0,0
+1696883981372,323,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-13,text,true,,19117,818,100,100,https://demo.nopcommerce.com/electronics,323,0,0
+1696883981189,513,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-56,text,true,,30696,812,100,100,https://demo.nopcommerce.com/notebooks,507,0,0
+1696883981333,388,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-60,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,386,0,0
+1696883981539,201,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-15,text,true,,19113,818,100,100,https://demo.nopcommerce.com/electronics,201,0,0
+1696883981584,221,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-61,text,true,,30696,812,100,100,https://demo.nopcommerce.com/notebooks,221,0,0
+1696883981657,197,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-59,text,true,,30698,812,100,100,https://demo.nopcommerce.com/notebooks,197,0,0
+1696883981650,220,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-46,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,216,0,0
+1696883981711,200,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-62,text,true,,30684,812,100,100,https://demo.nopcommerce.com/notebooks,196,0,0
+1696883981761,175,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-14,text,true,,19119,818,100,100,https://demo.nopcommerce.com/electronics,175,0,0
+1696883981721,224,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-47,text,true,,41292,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,222,0,0
+1696883981824,167,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-17,text,true,,19121,818,100,100,https://demo.nopcommerce.com/electronics,166,0,0
+1696883981975,235,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-50,text,true,,41278,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,229,0,0
+1696883982055,208,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-49,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,204,0,0
+1696883982106,158,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-16,text,true,,19123,818,100,100,https://demo.nopcommerce.com/electronics,157,0,0
+1696883982197,181,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-18,text,true,,19113,818,100,100,https://demo.nopcommerce.com/electronics,181,0,0
+1696883982173,207,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-64,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,205,0,0
+1696883982184,204,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-19,text,true,,19113,818,100,100,https://demo.nopcommerce.com/electronics,202,0,0
+1696883982342,188,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-66,text,true,,30702,812,100,100,https://demo.nopcommerce.com/notebooks,187,0,0
+1696883982348,236,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-53,text,true,,41282,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,232,0,0
+1696883982434,221,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-52,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,219,0,0
+1696883982459,228,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-65,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,227,0,0
+1696883982534,203,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-20,text,true,,19111,818,100,100,https://demo.nopcommerce.com/electronics,198,0,0
+1696883982296,444,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-48,text,true,,41282,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,435,0,0
+1696883982479,266,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-51,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,262,0,0
+1696883982628,204,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-55,text,true,,41282,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,0,0
+1696883982837,207,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-63,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,200,0,0
+1696883982864,201,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-69,text,true,,30698,812,100,100,https://demo.nopcommerce.com/notebooks,201,0,0
+1696883982920,190,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-70,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,189,0,0
+1696883983042,180,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-21,text,true,,19115,818,100,100,https://demo.nopcommerce.com/electronics,179,0,0
+1696883983033,199,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-68,text,true,,30700,812,100,100,https://demo.nopcommerce.com/notebooks,194,0,0
+1696883983070,205,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-67,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,204,0,0
+1696883983103,226,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-57,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,224,0,0
+1696883983243,201,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-22,text,true,,19115,818,100,100,https://demo.nopcommerce.com/electronics,199,0,0
+1696883983246,220,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-71,text,true,,30696,812,100,100,https://demo.nopcommerce.com/notebooks,220,0,0
+1696883983331,187,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-23,text,true,,19117,818,100,100,https://demo.nopcommerce.com/electronics,186,0,0
+1696883983314,222,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-58,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,221,0,0
+1696883983369,189,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-25,text,true,,19119,818,100,100,https://demo.nopcommerce.com/electronics,188,0,0
+1696883983324,242,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-72,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,233,0,0
+1696883983367,199,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-24,text,true,,19117,818,100,100,https://demo.nopcommerce.com/electronics,199,0,0
+1696883983426,181,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-26,text,true,,19119,818,100,100,https://demo.nopcommerce.com/electronics,180,0,0
+1696883983543,268,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-56,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,268,0,0
+1696883983610,222,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-27,text,true,,19121,818,100,100,https://demo.nopcommerce.com/electronics,221,0,0
+1696883983563,313,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-60,text,true,,41296,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,310,0,0
+1696883983409,492,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-54,text,true,,41298,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,483,0,0
+1696883983684,268,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-29,text,true,,19123,818,100,100,https://demo.nopcommerce.com/electronics,268,0,0
+1696883983695,372,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-59,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,368,0,0
+1696883983710,366,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-76,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,364,0,0
+1696883983646,432,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-61,text,true,,41296,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,403,0,0
+1696883983744,394,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-75,text,true,,30684,812,100,100,https://demo.nopcommerce.com/notebooks,391,0,0
+1696883983753,401,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-62,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,385,0,0
+1696883983741,446,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-73,text,true,,30702,812,100,100,https://demo.nopcommerce.com/notebooks,446,0,0
+1696883983716,472,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-3,text,true,,23684,819,100,100,https://demo.nopcommerce.com/camera-photo,472,0,0
+1696883983817,395,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-2,text,true,,23682,819,100,100,https://demo.nopcommerce.com/camera-photo,394,0,0
+1696883983797,430,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-8,text,true,,23680,819,100,100,https://demo.nopcommerce.com/camera-photo,430,0,0
+1696883983771,469,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-5,text,true,,23684,819,100,100,https://demo.nopcommerce.com/camera-photo,467,0,0
+1696883983861,380,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-1,text,true,,23688,819,100,100,https://demo.nopcommerce.com/camera-photo,379,0,0
+1696883983868,392,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-30,text,true,,19121,818,100,100,https://demo.nopcommerce.com/electronics,383,0,0
+1696883983993,294,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-10,text,true,,23680,819,100,100,https://demo.nopcommerce.com/camera-photo,292,0,0
+1696883983987,306,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-7,text,true,,23682,819,100,100,https://demo.nopcommerce.com/camera-photo,303,0,0
+1696883984091,228,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-28,text,true,,19113,818,100,100,https://demo.nopcommerce.com/electronics,227,0,0
+1696883983956,388,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-9,text,true,,23690,819,100,100,https://demo.nopcommerce.com/camera-photo,388,0,0
+1696883984090,271,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-12,text,true,,23688,819,100,100,https://demo.nopcommerce.com/camera-photo,271,0,0
+1696883984053,331,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-6,text,true,,23696,819,100,100,https://demo.nopcommerce.com/camera-photo,330,0,0
+1696883984114,287,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-4,text,true,,23690,819,100,100,https://demo.nopcommerce.com/camera-photo,285,0,0
+1696883984100,322,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-77,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,321,0,0
+1696883983932,528,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-31,text,true,,19117,818,100,100,https://demo.nopcommerce.com/electronics,526,0,0
+1696883983898,573,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-74,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,573,0,0
+1696883984162,328,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-13,text,true,,23678,819,100,100,https://demo.nopcommerce.com/camera-photo,328,0,0
+1696883984218,309,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-32,text,true,,19117,818,100,100,https://demo.nopcommerce.com/electronics,308,0,0
+1696883983996,532,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-11,text,true,,23686,819,100,100,https://demo.nopcommerce.com/camera-photo,531,0,0
+1696883984221,330,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-64,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,328,0,0
+1696883984316,301,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-80,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,300,0,0
+1696883984360,257,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-33,text,true,,19119,818,100,100,https://demo.nopcommerce.com/electronics,257,0,0
+1696883984298,354,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-78,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,351,0,0
+1696883984371,284,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-66,text,true,,41280,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,281,0,0
+1696883984401,265,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-14,text,true,,23686,819,100,100,https://demo.nopcommerce.com/camera-photo,264,0,0
+1696883984204,505,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-15,text,true,,23680,819,100,100,https://demo.nopcommerce.com/camera-photo,504,0,0
+1696883984233,476,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-79,text,true,,30696,812,100,100,https://demo.nopcommerce.com/notebooks,474,0,0
+1696883984457,267,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-17,text,true,,23680,819,100,100,https://demo.nopcommerce.com/camera-photo,267,0,0
+1696883984515,216,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-34,text,true,,19111,818,100,100,https://demo.nopcommerce.com/electronics,215,0,0
+1696883984611,179,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-35,text,true,,19115,818,100,100,https://demo.nopcommerce.com/electronics,179,0,0
+1696883984528,281,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-65,text,true,,41292,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,277,0,0
+1696883984679,189,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-81,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,189,0,0
+1696883984681,213,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-82,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,212,0,0
+1696883984729,178,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-16,text,true,,23684,819,100,100,https://demo.nopcommerce.com/camera-photo,174,0,0
+1696883984842,188,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-18,text,true,,23684,819,100,100,https://demo.nopcommerce.com/camera-photo,188,0,0
+1696883984853,196,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-19,text,true,,23690,819,100,100,https://demo.nopcommerce.com/camera-photo,195,0,0
+1696883984890,231,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-36,text,true,,19115,818,100,100,https://demo.nopcommerce.com/electronics,231,0,0
+1696883984886,401,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-63,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,387,0,0
+1696883984907,380,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-69,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,361,0,0
+1696883984951,370,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-70,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,365,0,0
+1696883985081,401,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-37,text,true,,19121,818,100,100,https://demo.nopcommerce.com/electronics,401,0,0
+1696883985017,487,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-84,text,true,,30688,812,100,100,https://demo.nopcommerce.com/notebooks,483,0,0
+1696883985073,486,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-68,text,true,,41292,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,476,0,0
+1696883985167,413,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-38,text,true,,19127,818,100,100,https://demo.nopcommerce.com/electronics,413,0,0
+1696883985115,481,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-67,text,true,,41286,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,449,0,0
+1696883985203,427,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-20,text,true,,23684,819,100,100,https://demo.nopcommerce.com/camera-photo,426,0,0
+1696883985197,436,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-86,text,true,,30694,812,100,100,https://demo.nopcommerce.com/notebooks,436,0,0
+1696883985308,421,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-71,text,true,,41294,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,415,0,0
+1696883985255,498,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-85,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,497,0,0
+1696883985407,385,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-72,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,383,0,0
+1696883985416,391,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-87,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,389,0,0
+1696883985376,437,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-39,text,true,,19119,818,100,100,https://demo.nopcommerce.com/electronics,437,0,0
+1696883985178,643,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-83,text,true,,30700,812,100,100,https://demo.nopcommerce.com/notebooks,640,0,0
+1696883985637,266,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-88,text,true,,30686,812,100,100,https://demo.nopcommerce.com/notebooks,265,0,0
+1696883985688,215,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-21,text,true,,23684,819,100,100,https://demo.nopcommerce.com/camera-photo,214,0,0
+1696883985816,297,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-90,text,true,,30698,812,100,100,https://demo.nopcommerce.com/notebooks,285,0,0
+1696883985893,276,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-41,text,true,,19121,818,100,100,https://demo.nopcommerce.com/electronics,275,0,0
+1696883985970,276,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-42,text,true,,19119,818,100,100,https://demo.nopcommerce.com/electronics,276,0,0
+1696883985901,348,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-89,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,345,0,0
+1696883985908,354,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-22,text,true,,23690,819,100,100,https://demo.nopcommerce.com/camera-photo,350,0,0
+1696883985918,395,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-76,text,true,,41290,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,368,0,0
+1696883985984,393,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-23,text,true,,23690,819,100,100,https://demo.nopcommerce.com/camera-photo,384,0,0
+1696883986030,467,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-44,text,true,,19111,818,100,100,https://demo.nopcommerce.com/electronics,461,0,0
+1696883986031,469,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-73,text,true,,41292,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,424,0,0
+1696883986073,427,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-26,text,true,,23690,819,100,100,https://demo.nopcommerce.com/camera-photo,418,0,0
+1696883986031,473,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-24,text,true,,23686,819,100,100,https://demo.nopcommerce.com/camera-photo,466,0,0
+1696883985980,526,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-75,text,true,,41288,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,511,0,0
+1696883986024,494,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-25,text,true,,23684,819,100,100,https://demo.nopcommerce.com/camera-photo,481,0,0
+1696883986156,395,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-40,text,true,,19123,818,100,100,https://demo.nopcommerce.com/electronics,385,0,0
+1696883986185,377,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-43,text,true,,19129,818,100,100,https://demo.nopcommerce.com/electronics,373,0,0
+1696883986173,489,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-92,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,481,0,0
+1696883986313,368,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-74,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,341,0,0
+1696883986264,429,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-77,text,true,,41294,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,397,0,0
+1696883986191,504,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-91,text,true,,30692,812,100,100,https://demo.nopcommerce.com/notebooks,500,0,0
+1696883986298,438,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-27,text,true,,23686,819,100,100,https://demo.nopcommerce.com/camera-photo,433,0,0
+1696883986324,420,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-45,text,true,,19111,818,100,100,https://demo.nopcommerce.com/electronics,420,0,0
+1696883986273,872,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-93,text,true,,30690,812,100,100,https://demo.nopcommerce.com/notebooks,862,0,0
+1696883986421,789,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-29,text,true,,23682,819,100,100,https://demo.nopcommerce.com/camera-photo,773,0,0
+1696883986843,784,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-50,text,true,,19123,818,100,100,https://demo.nopcommerce.com/electronics,781,0,0
+1696883986737,904,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-82,text,true,,41284,828,100,100,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,713,0,0
+1696883986590,1219,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-6,text,true,,52017,823,100,100,https://demo.nopcommerce.com/nikon-d5500-dslr,980,0,0
+1696883944104,3916,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-6,,false,,197360,5131,100,100,null,3670,39792,170
+1696883986576,1255,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-47,text,true,,19123,818,99,99,https://demo.nopcommerce.com/electronics,1255,0,0
+1696883986785,1079,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-28,text,true,,23680,819,99,99,https://demo.nopcommerce.com/camera-photo,1078,0,0
+1696883986459,1405,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-80,text,true,,41296,828,99,99,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1164,0,0
+1696883986711,1199,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-81,text,true,,41292,828,99,99,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1016,0,0
+1696883986725,1191,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-30,text,true,,23686,819,99,99,https://demo.nopcommerce.com/camera-photo,1189,0,0
+1696883986493,1430,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-10,text,true,,52027,823,99,99,https://demo.nopcommerce.com/nikon-d5500-dslr,1250,0,0
+1696883944702,3444,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-10,,false,,197376,5131,99,99,null,3195,39779,114
+1696883986493,1455,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-78,text,true,,41292,828,98,98,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1314,0,0
+1696883986502,1524,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-46,text,true,,19111,818,98,98,https://demo.nopcommerce.com/electronics,1522,0,0
+1696883986607,1523,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-4,text,true,,52019,823,98,98,https://demo.nopcommerce.com/nikon-d5500-dslr,1301,0,0
+1696883943806,4544,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-4,,false,,197356,5131,98,98,null,4278,39782,462
+1696883986567,1649,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-12,text,true,,52015,823,97,97,https://demo.nopcommerce.com/nikon-d5500-dslr,1494,0,0
+1696883945001,3441,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-12,,false,,197338,5131,97,97,null,3267,39776,104
+1696883986736,1483,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-11,text,true,,52021,823,96,96,https://demo.nopcommerce.com/nikon-d5500-dslr,1290,0,0
+1696883986448,1771,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-5,text,true,,52027,823,96,96,https://demo.nopcommerce.com/nikon-d5500-dslr,1573,0,0
+1696883944851,3593,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-11,,false,,197354,5131,96,96,null,3346,39777,112
+1696883943956,4472,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-5,,false,,197364,5131,96,96,null,4236,39793,309
+1696883986895,1329,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-49,text,true,,19121,818,94,94,https://demo.nopcommerce.com/electronics,1329,0,0
+1696883986417,1911,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-2,text,true,,52017,823,94,94,https://demo.nopcommerce.com/nikon-d5500-dslr,1704,0,0
+1696883943511,5031,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-2,,false,,197368,5131,94,94,null,4789,39788,735
+1696883987083,1255,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-33,text,true,,23688,819,93,93,https://demo.nopcommerce.com/camera-photo,1255,0,0
+1696883986993,1372,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-32,text,true,,23684,819,93,93,https://demo.nopcommerce.com/camera-photo,1371,0,0
+1696883986378,2000,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-94,text,true,,30686,812,93,93,https://demo.nopcommerce.com/notebooks,2000,0,0
+1696883986497,1990,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-7,text,true,,52013,823,93,93,https://demo.nopcommerce.com/nikon-d5500-dslr,1730,0,0
+1696883944270,4447,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-7,,false,,197342,5131,93,93,null,4149,39772,124
+1696883986550,1959,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-79,text,true,,41292,828,92,92,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1683,0,0
+1696883986914,1660,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-15,text,true,,52029,823,92,92,https://demo.nopcommerce.com/nikon-d5500-dslr,1359,0,0
+1696883945451,3347,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-15,,false,,197358,5131,92,92,null,3005,39778,148
+1696883987114,1538,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-16,text,true,,52017,823,91,91,https://demo.nopcommerce.com/nikon-d5500-dslr,1400,0,0
+1696883986695,1957,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-13,text,true,,52017,823,91,91,https://demo.nopcommerce.com/nikon-d5500-dslr,1793,0,0
+1696883945601,3271,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-16,,false,,197348,5131,91,91,null,3069,39782,113
+1696883945150,3729,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-13,,false,,197344,5131,91,91,null,3543,39775,102
+1696883986930,1727,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-17,text,true,,52019,823,89,89,https://demo.nopcommerce.com/nikon-d5500-dslr,1621,0,0
+1696883986446,2211,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-1,text,true,,52019,823,89,89,https://demo.nopcommerce.com/nikon-d5500-dslr,2134,0,0
+1696883945749,3134,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-17,,false,,197354,5131,89,89,null,2998,39776,118
+1696883943371,5359,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-1,,false,,197346,5131,89,89,null,5250,39929,734
+1696883986394,2270,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-3,text,true,,52015,823,87,87,https://demo.nopcommerce.com/nikon-d5500-dslr,2157,0,0
+1696883943659,5221,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-3,,false,,197352,5131,87,87,null,5066,39786,606
+1696883986550,2121,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-9,text,true,,52025,823,86,86,https://demo.nopcommerce.com/nikon-d5500-dslr,2024,0,0
+1696883944552,4345,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-9,,false,,197370,5131,86,86,null,4218,39776,148
+1696883986665,2013,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-95,text,true,,30686,812,85,85,https://demo.nopcommerce.com/notebooks,2013,0,0
+1696883986869,1851,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-97,text,true,,30692,812,85,85,https://demo.nopcommerce.com/notebooks,1850,0,0
+1696883987257,1512,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-35,text,true,,23682,819,85,85,https://demo.nopcommerce.com/camera-photo,1511,0,0
+1696883986926,1852,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-31,text,true,,23686,819,85,85,https://demo.nopcommerce.com/camera-photo,1852,0,0
+1696883986782,2085,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-96,text,true,,30688,812,85,85,https://demo.nopcommerce.com/notebooks,2085,0,0
+1696883987595,1498,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-85,text,true,,41292,828,85,85,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1274,0,0
+1696883986871,2233,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-14,text,true,,52019,823,85,85,https://demo.nopcommerce.com/nikon-d5500-dslr,1992,0,0
+1696883945305,4026,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-14,,false,,197356,5131,85,85,null,3751,39774,87
+1696883987216,1908,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-53,text,true,,19117,818,84,84,https://demo.nopcommerce.com/electronics,1907,0,0
+1696883987197,1984,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-34,text,true,,23692,819,84,84,https://demo.nopcommerce.com/camera-photo,1982,0,0
+1696883987288,1905,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-52,text,true,,19119,818,84,84,https://demo.nopcommerce.com/electronics,1905,0,0
+1696883987650,1559,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-87,text,true,,41292,828,84,84,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1281,0,0
+1696883986434,2783,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-8,text,true,,52021,823,84,84,https://demo.nopcommerce.com/nikon-d5500-dslr,2504,0,0
+1696883987347,1870,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-84,text,true,,41294,828,84,84,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1588,0,0
+1696883944402,5039,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-8,,false,,197342,5131,84,84,null,4709,39778,161
+1696883987475,1775,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-86,text,true,,41282,828,83,83,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1550,0,0
+1696883987236,2014,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-18,text,true,,52017,823,83,83,https://demo.nopcommerce.com/nikon-d5500-dslr,1861,0,0
+1696883945905,3573,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-18,,false,,197348,5131,83,83,null,3388,39774,110
+1696883987664,1589,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-83,text,true,,41288,828,82,82,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1440,0,0
+1696883987372,1885,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-48,text,true,,19117,818,82,82,https://demo.nopcommerce.com/electronics,1885,0,0
+1696883987376,1894,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-51,text,true,,19115,818,82,82,https://demo.nopcommerce.com/electronics,1891,0,0
+1696883987272,1999,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-98,text,true,,30696,812,82,82,https://demo.nopcommerce.com/notebooks,1998,0,0
+1696883987955,1355,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-90,text,true,,41292,828,82,82,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1177,0,0
+1696883987464,1861,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-55,text,true,,19117,818,82,82,https://demo.nopcommerce.com/electronics,1861,0,0
+1696883987302,2023,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-100,text,true,,30686,812,82,82,https://demo.nopcommerce.com/notebooks,2023,0,0
+1696883987587,1801,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-36,text,true,,23682,819,82,82,https://demo.nopcommerce.com/camera-photo,1801,0,0
+1696883987441,1979,https://demo.nopcommerce.com/notebooks,200,OK,Thread Group 1-99,text,true,,30698,812,82,82,https://demo.nopcommerce.com/notebooks,1979,0,0
+1696883987947,1627,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-37,text,true,,23682,819,82,82,https://demo.nopcommerce.com/camera-photo,1625,0,0
+1696883987254,2327,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-19,text,true,,52015,823,82,82,https://demo.nopcommerce.com/nikon-d5500-dslr,2214,0,0
+1696883988090,1491,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-89,text,true,,41286,828,82,82,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1388,0,0
+1696883946055,3755,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-19,,false,,197348,5131,82,82,null,3604,39773,132
+1696883987744,1850,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-88,text,true,,41292,828,81,81,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1672,0,0
+1696883988170,1479,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-58,text,true,,19119,818,81,81,https://demo.nopcommerce.com/electronics,1479,0,0
+1696883988046,1623,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-38,text,true,,23684,819,81,81,https://demo.nopcommerce.com/camera-photo,1623,0,0
+1696883987962,1739,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-57,text,true,,19117,818,81,81,https://demo.nopcommerce.com/electronics,1734,0,0
+1696883988446,1258,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-56,text,true,,19127,818,81,81,https://demo.nopcommerce.com/electronics,1258,0,0
+1696883988702,1265,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-59,text,true,,19115,818,81,81,https://demo.nopcommerce.com/electronics,1262,0,0
+1696883988538,1449,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-91,text,true,,41288,828,81,81,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1233,0,0
+1696883987835,2210,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-20,text,true,,52023,823,81,81,https://demo.nopcommerce.com/nikon-d5500-dslr,1990,0,0
+1696883946205,4066,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-20,,false,,197356,5131,81,81,null,3791,39776,126
+1696883988108,2020,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-21,text,true,,52031,823,80,80,https://demo.nopcommerce.com/nikon-d5500-dslr,1874,0,0
+1696883988505,1624,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-92,text,true,,41288,828,80,80,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1437,0,0
+1696883946355,3998,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-21,,false,,197358,5131,80,80,null,3805,39777,90
+1696883988989,1142,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-93,text,true,,41292,828,79,79,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,946,0,0
+1696883988510,1624,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-60,text,true,,19117,818,79,79,https://demo.nopcommerce.com/electronics,1624,0,0
+1696883988706,1459,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-26,text,true,,52021,823,79,79,https://demo.nopcommerce.com/nikon-d5500-dslr,1379,0,0
+1696883947101,3290,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-26,,false,,197368,5131,79,79,null,3187,39775,102
+1696883988468,1710,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-22,text,true,,52023,823,78,78,https://demo.nopcommerce.com/nikon-d5500-dslr,1631,0,0
+1696883988725,1453,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-25,text,true,,52019,823,78,78,https://demo.nopcommerce.com/nikon-d5500-dslr,1446,0,0
+1696883946506,3900,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-22,,false,,197354,5131,78,78,null,3787,39773,150
+1696883946950,3456,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-25,,false,,197342,5131,78,78,null,3392,39773,125
+1696883988788,1414,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-62,text,true,,19117,818,76,76,https://demo.nopcommerce.com/electronics,1412,0,0
+1696883988713,1590,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-61,text,true,,19123,818,76,76,https://demo.nopcommerce.com/electronics,1579,0,0
+1696883988638,1666,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-41,text,true,,23682,819,76,76,https://demo.nopcommerce.com/camera-photo,1666,0,0
+1696883989017,1290,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-40,text,true,,23682,819,76,76,https://demo.nopcommerce.com/camera-photo,1289,0,0
+1696883988279,2031,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-39,text,true,,23686,819,76,76,https://demo.nopcommerce.com/camera-photo,2028,0,0
+1696883988535,1782,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-54,text,true,,19117,818,76,76,https://demo.nopcommerce.com/electronics,1781,0,0
+1696883988713,1608,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-42,text,true,,23678,819,76,76,https://demo.nopcommerce.com/camera-photo,1604,0,0
+1696883989185,1168,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-64,text,true,,19117,818,76,76,https://demo.nopcommerce.com/electronics,1166,0,0
+1696883989029,1332,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-43,text,true,,23678,819,76,76,https://demo.nopcommerce.com/camera-photo,1330,0,0
+1696883989288,1112,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-66,text,true,,19119,818,76,76,https://demo.nopcommerce.com/electronics,1109,0,0
+1696883988963,1521,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-44,text,true,,23694,819,76,76,https://demo.nopcommerce.com/camera-photo,1521,0,0
+1696883988712,1773,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-24,text,true,,52025,823,76,76,https://demo.nopcommerce.com/nikon-d5500-dslr,1697,0,0
+1696883946799,3911,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-24,,false,,197348,5131,76,76,null,3795,39776,158
+1696883988584,1947,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-23,text,true,,52023,823,75,75,https://demo.nopcommerce.com/nikon-d5500-dslr,1906,0,0
+1696883946656,4101,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-23,,false,,197360,5131,75,75,null,4024,39774,125
+1696883989444,1095,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-65,text,true,,19119,818,74,74,https://demo.nopcommerce.com/electronics,1093,0,0
+1696883989211,1349,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-45,text,true,,23684,819,74,74,https://demo.nopcommerce.com/camera-photo,1347,0,0
+1696883989954,673,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-70,text,true,,19119,818,74,74,https://demo.nopcommerce.com/electronics,669,0,0
+1696883989921,709,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-63,text,true,,19115,818,74,74,https://demo.nopcommerce.com/electronics,706,0,0
+1696883989921,725,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-69,text,true,,19117,818,74,74,https://demo.nopcommerce.com/electronics,719,0,0
+1696883988943,1726,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-27,text,true,,52013,823,74,74,https://demo.nopcommerce.com/nikon-d5500-dslr,1713,0,0
+1696883947253,3645,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-27,,false,,197350,5131,74,74,null,3599,39771,112
+1696883990097,635,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-50,text,true,,23684,819,73,73,https://demo.nopcommerce.com/camera-photo,632,0,0
+1696883990221,634,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-94,text,true,,41294,828,73,73,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,575,0,0
+1696883990194,675,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-68,text,true,,19117,818,73,73,https://demo.nopcommerce.com/electronics,606,0,0
+1696883990298,571,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-47,text,true,,23686,819,73,73,https://demo.nopcommerce.com/camera-photo,562,0,0
+1696883989416,1461,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-29,text,true,,52017,823,73,73,https://demo.nopcommerce.com/nikon-d5500-dslr,1420,0,0
+1696883947552,3548,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-29,,false,,197360,5131,73,73,null,3470,39778,143
+1696883990229,688,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-67,text,true,,19119,818,72,72,https://demo.nopcommerce.com/electronics,682,0,0
+1696883990426,530,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-72,text,true,,19121,818,72,72,https://demo.nopcommerce.com/electronics,528,0,0
+1696883990364,594,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-71,text,true,,19119,818,72,72,https://demo.nopcommerce.com/electronics,593,0,0
+1696883990072,916,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-28,text,true,,52027,823,72,72,https://demo.nopcommerce.com/nikon-d5500-dslr,906,0,0
+1696883947400,3812,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-28,,false,,197342,5131,72,72,null,3775,39776,91
+1696883990493,506,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-46,text,true,,23682,819,71,71,https://demo.nopcommerce.com/camera-photo,504,0,0
+1696883990522,544,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-95,text,true,,41284,828,71,71,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,538,0,0
+1696883990690,411,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-49,text,true,,23682,819,71,71,https://demo.nopcommerce.com/camera-photo,410,0,0
+1696883990123,1051,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-30,text,true,,52021,823,71,71,https://demo.nopcommerce.com/nikon-d5500-dslr,1025,0,0
+1696883990563,611,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-97,text,true,,41288,828,71,71,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,602,0,0
+1696883947711,3693,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-30,,false,,197360,5131,71,71,null,3620,39771,126
+1696883990710,495,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-96,text,true,,41292,828,70,70,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,495,0,0
+1696883990544,694,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-33,text,true,,52015,823,70,70,https://demo.nopcommerce.com/nikon-d5500-dslr,693,0,0
+1696883948159,3300,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-33,,false,,197354,5131,70,70,null,3276,39780,125
+1696883990947,293,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-76,text,true,,19119,818,70,70,https://demo.nopcommerce.com/electronics,293,0,0
+1696883990571,716,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-32,text,true,,52021,823,69,69,https://demo.nopcommerce.com/nikon-d5500-dslr,713,0,0
+1696883948003,3512,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-32,,false,,197348,5131,69,69,null,3498,39773,111
+1696883991140,220,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-75,text,true,,19119,818,68,68,https://demo.nopcommerce.com/electronics,214,0,0
+1696883991115,315,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-98,text,true,,41288,828,68,68,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,313,0,0
+1696883991134,311,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-73,text,true,,19111,818,68,68,https://demo.nopcommerce.com/electronics,311,0,0
+1696883990976,470,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-35,text,true,,52021,823,68,68,https://demo.nopcommerce.com/nikon-d5500-dslr,469,0,0
+1696883948452,3219,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-35,,false,,197356,5131,68,68,null,3180,39775,91
+1696883990984,486,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-31,text,true,,52013,823,67,67,https://demo.nopcommerce.com/nikon-d5500-dslr,484,0,0
+1696883947853,3849,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-31,,false,,197346,5131,67,67,null,3823,39769,112
+1696883991168,312,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-100,text,true,,41292,828,66,66,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,310,0,0
+1696883991315,189,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-74,text,true,,19115,818,66,66,https://demo.nopcommerce.com/electronics,189,0,0
+1696883991328,187,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-77,text,true,,19119,818,66,66,https://demo.nopcommerce.com/electronics,187,0,0
+1696883991265,299,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,200,OK,Thread Group 1-99,text,true,,41288,828,66,66,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,294,0,0
+1696883991389,247,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-34,text,true,,52017,823,66,66,https://demo.nopcommerce.com/nikon-d5500-dslr,240,0,0
+1696883948307,3556,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-34,,false,,197356,5131,66,66,null,3529,39774,99
+1696883991591,193,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-53,text,true,,23682,819,65,65,https://demo.nopcommerce.com/camera-photo,193,0,0
+1696883991661,187,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-52,text,true,,23686,819,65,65,https://demo.nopcommerce.com/camera-photo,176,0,0
+1696883991595,265,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-36,text,true,,52009,823,65,65,https://demo.nopcommerce.com/nikon-d5500-dslr,265,0,0
+1696883948606,3479,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-36,,false,,197342,5131,65,65,null,3463,39775,107
+1696883991724,202,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-48,text,true,,23680,819,64,64,https://demo.nopcommerce.com/camera-photo,198,0,0
+1696883991738,188,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-51,text,true,,23688,819,64,64,https://demo.nopcommerce.com/camera-photo,187,0,0
+1696883991792,183,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-55,text,true,,23682,819,64,64,https://demo.nopcommerce.com/camera-photo,183,0,0
+1696883991780,270,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-37,text,true,,52021,823,64,64,https://demo.nopcommerce.com/nikon-d5500-dslr,269,0,0
+1696883948755,3521,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-37,,false,,197378,5131,64,64,null,3504,39774,104
+1696883991877,265,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-38,text,true,,52011,823,63,63,https://demo.nopcommerce.com/nikon-d5500-dslr,263,0,0
+1696883948902,3463,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-38,,false,,197346,5131,63,63,null,3442,39777,131
+1696883992116,183,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-58,text,true,,23682,819,62,62,https://demo.nopcommerce.com/camera-photo,183,0,0
+1696883992166,195,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-57,text,true,,23682,819,62,62,https://demo.nopcommerce.com/camera-photo,194,0,0
+1696883992170,200,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-56,text,true,,23682,819,62,62,https://demo.nopcommerce.com/camera-photo,195,0,0
+1696883992275,192,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-82,text,true,,19117,818,62,62,https://demo.nopcommerce.com/electronics,191,0,0
+1696883992433,182,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-59,text,true,,23684,819,62,62,https://demo.nopcommerce.com/camera-photo,179,0,0
+1696883992498,241,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-80,text,true,,19123,818,62,62,https://demo.nopcommerce.com/electronics,238,0,0
+1696883992544,397,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-81,text,true,,19119,818,62,62,https://demo.nopcommerce.com/electronics,392,0,0
+1696883992583,392,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-78,text,true,,19119,818,62,62,https://demo.nopcommerce.com/electronics,392,0,0
+1696883992600,460,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-60,text,true,,23682,819,62,62,https://demo.nopcommerce.com/camera-photo,459,0,0
+1696883992512,696,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-40,text,true,,52019,823,62,62,https://demo.nopcommerce.com/nikon-d5500-dslr,678,0,0
+1696883949200,4227,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-40,,true,,219569,5403,62,62,null,4121,39782,109
+1696883992669,556,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-62,text,true,,23678,819,61,61,https://demo.nopcommerce.com/camera-photo,551,0,0
+1696883992510,739,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-41,text,true,,52019,823,61,61,https://demo.nopcommerce.com/nikon-d5500-dslr,734,0,0
+1696883949353,4123,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-41,,true,,219561,5403,61,61,null,4102,39773,133
+1696883992516,785,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-39,text,true,,52021,823,60,60,https://demo.nopcommerce.com/nikon-d5500-dslr,722,0,0
+1696883949052,4476,Test,,"Number of samples in transaction : 7, number of failing samples : 1",Thread Group 1-39,,false,,197348,5131,60,60,null,4403,39773,142
+1696883992528,805,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-42,text,true,,52023,823,59,59,https://demo.nopcommerce.com/nikon-d5500-dslr,786,0,0
+1696883949500,4059,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-42,,true,,219559,5403,59,59,null,3980,39773,104
+1696883992865,533,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-66,text,true,,23688,819,58,58,https://demo.nopcommerce.com/camera-photo,526,0,0
+1696883992569,829,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-43,text,true,,52021,823,58,58,https://demo.nopcommerce.com/nikon-d5500-dslr,793,0,0
+1696883949650,3972,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-43,,true,,219589,5403,58,58,null,3910,39776,145
+1696883992690,792,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-44,text,true,,52027,823,57,57,https://demo.nopcommerce.com/nikon-d5500-dslr,746,0,0
+1696883949800,3907,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-44,,true,,219557,5403,57,57,null,3824,39775,119
+1696883992783,806,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-54,text,true,,23688,819,56,56,https://demo.nopcommerce.com/camera-photo,794,0,0
+1696883993004,585,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-65,text,true,,23690,819,56,56,https://demo.nopcommerce.com/camera-photo,584,0,0
+1696883992769,826,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-61,text,true,,23686,819,56,56,https://demo.nopcommerce.com/camera-photo,820,0,0
+1696883992819,788,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-64,text,true,,23688,819,56,56,https://demo.nopcommerce.com/camera-photo,780,0,0
+1696883993096,557,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-63,text,true,,23684,819,56,56,https://demo.nopcommerce.com/camera-photo,532,0,0
+1696883993094,589,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-70,text,true,,23690,819,56,56,https://demo.nopcommerce.com/camera-photo,588,0,0
+1696883992766,917,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-45,text,true,,52021,823,56,56,https://demo.nopcommerce.com/nikon-d5500-dslr,878,0,0
+1696883949948,3956,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-45,,true,,219555,5403,56,56,null,3886,39779,119
+1696883993111,604,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-69,text,true,,23684,819,55,55,https://demo.nopcommerce.com/camera-photo,591,0,0
+1696883993422,375,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-72,text,true,,23682,819,55,55,https://demo.nopcommerce.com/camera-photo,361,0,0
+1696883992938,881,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-50,text,true,,52015,823,55,55,https://demo.nopcommerce.com/nikon-d5500-dslr,854,0,0
+1696883950698,3343,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-50,,true,,219551,5403,55,55,null,3269,39778,169
+1696883993424,420,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-71,text,true,,23690,819,54,54,https://demo.nopcommerce.com/camera-photo,415,0,0
+1696883993335,524,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-68,text,true,,23682,819,54,54,https://demo.nopcommerce.com/camera-photo,518,0,0
+1696883993382,485,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-67,text,true,,23680,819,54,54,https://demo.nopcommerce.com/camera-photo,483,0,0
+1696883993075,825,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-47,text,true,,52011,823,54,54,https://demo.nopcommerce.com/nikon-d5500-dslr,823,0,0
+1696883950248,3874,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-47,,true,,219569,5403,54,54,null,3844,39778,122
+1696883993142,799,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-79,text,true,,19117,818,53,53,https://demo.nopcommerce.com/electronics,798,0,0
+1696883993726,224,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-85,text,true,,19119,818,53,53,https://demo.nopcommerce.com/electronics,223,0,0
+1696883993204,796,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-46,text,true,,52015,823,53,53,https://demo.nopcommerce.com/nikon-d5500-dslr,793,0,0
+1696883950099,4128,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-46,,true,,219557,5403,53,53,null,4092,39773,128
+1696883993307,700,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-49,text,true,,52036,823,52,52,https://demo.nopcommerce.com/nikon-d5500-dslr,695,0,0
+1696883950549,3685,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-49,,true,,219566,5403,52,52,null,3654,39773,180
+1696883993826,242,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-75,text,true,,23684,819,51,51,https://demo.nopcommerce.com/camera-photo,241,0,0
+1696883993843,225,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-87,text,true,,19113,818,51,51,https://demo.nopcommerce.com/electronics,225,0,0
+1696883993883,198,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-86,text,true,,19117,818,51,51,https://demo.nopcommerce.com/electronics,198,0,0
+1696883993851,247,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-84,text,true,,19123,818,51,51,https://demo.nopcommerce.com/electronics,246,0,0
+1696883993706,511,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-76,text,true,,23686,819,51,51,https://demo.nopcommerce.com/camera-photo,510,0,0
+1696883993912,337,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-73,text,true,,23684,819,51,51,https://demo.nopcommerce.com/camera-photo,337,0,0
+1696883993944,317,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-90,text,true,,19121,818,51,51,https://demo.nopcommerce.com/electronics,306,0,0
+1696883993981,357,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-77,text,true,,23684,819,51,51,https://demo.nopcommerce.com/camera-photo,357,0,0
+1696883993970,374,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-74,text,true,,23686,819,51,51,https://demo.nopcommerce.com/camera-photo,374,0,0
+1696883993887,640,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-83,text,true,,19117,818,51,51,https://demo.nopcommerce.com/electronics,637,0,0
+1696883993989,661,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-53,text,true,,52021,823,51,51,https://demo.nopcommerce.com/nikon-d5500-dslr,632,0,0
+1696883951148,3729,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-53,,true,,219559,5403,51,51,null,3677,39772,152
+1696883994227,704,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-88,text,true,,19115,818,50,50,https://demo.nopcommerce.com/electronics,704,0,0
+1696883994053,929,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-52,text,true,,52031,823,50,50,https://demo.nopcommerce.com/nikon-d5500-dslr,868,0,0
+1696883950998,4205,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-52,,true,,219579,5403,50,50,null,4119,39779,122
+1696883994215,768,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-89,text,true,,19121,818,50,50,https://demo.nopcommerce.com/electronics,768,0,0
+1696883994182,844,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-55,text,true,,52027,823,49,49,https://demo.nopcommerce.com/nikon-d5500-dslr,826,0,0
+1696883951448,3802,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-55,,true,,219553,5403,49,49,null,3774,39776,118
+1696883994133,894,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-51,text,true,,52021,823,49,49,https://demo.nopcommerce.com/nikon-d5500-dslr,864,0,0
+1696883950848,4405,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-51,,true,,219581,5403,49,49,null,4356,39774,155
+1696883994133,904,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-48,text,true,,52023,823,47,47,https://demo.nopcommerce.com/nikon-d5500-dslr,896,0,0
+1696883950398,4864,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-48,,true,,219559,5403,47,47,null,4828,39774,118
+1696883994620,448,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-91,text,true,,19113,818,46,46,https://demo.nopcommerce.com/electronics,445,0,0
+1696883994764,414,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-93,text,true,,19123,818,46,46,https://demo.nopcommerce.com/electronics,409,0,0
+1696883994761,476,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-92,text,true,,19123,818,46,46,https://demo.nopcommerce.com/electronics,475,0,0
+1696883994575,755,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-56,text,true,,52015,823,46,46,https://demo.nopcommerce.com/nikon-d5500-dslr,725,0,0
+1696883951598,3957,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-56,,true,,219583,5403,46,46,null,3907,39775,119
+1696883994505,833,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-58,text,true,,52031,823,45,45,https://demo.nopcommerce.com/nikon-d5500-dslr,828,0,0
+1696883951899,3663,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-58,,true,,219575,5403,45,45,null,3653,39776,110
+1696883994566,804,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-57,text,true,,52021,823,44,44,https://demo.nopcommerce.com/nikon-d5500-dslr,796,0,0
+1696883951747,3852,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-57,,true,,219555,5403,44,44,null,3830,39771,133
+1696883994821,586,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-59,text,true,,52017,823,43,43,https://demo.nopcommerce.com/nikon-d5500-dslr,581,0,0
+1696883952051,3580,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-59,,true,,219561,5403,43,43,null,3551,39776,116
+1696883994933,485,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-82,text,true,,23686,819,42,42,https://demo.nopcommerce.com/camera-photo,483,0,0
+1696883995204,245,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-80,text,true,,23682,819,42,42,https://demo.nopcommerce.com/camera-photo,245,0,0
+1696883995266,280,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-60,text,true,,52025,823,42,42,https://demo.nopcommerce.com/nikon-d5500-dslr,272,0,0
+1696883952198,3573,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-60,,true,,219577,5403,42,42,null,3554,39775,102
+1696883995408,189,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-81,text,true,,23684,819,41,41,https://demo.nopcommerce.com/camera-photo,188,0,0
+1696883995441,195,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-78,text,true,,23688,819,41,41,https://demo.nopcommerce.com/camera-photo,194,0,0
+1696883995490,179,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-94,text,true,,19115,818,41,41,https://demo.nopcommerce.com/electronics,175,0,0
+1696883995430,292,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-62,text,true,,52023,823,41,41,https://demo.nopcommerce.com/nikon-d5500-dslr,291,0,0
+1696883952499,3446,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-62,,true,,219557,5403,41,41,null,3412,39777,170
+1696883995604,297,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-66,text,true,,52017,823,40,40,https://demo.nopcommerce.com/nikon-d5500-dslr,288,0,0
+1696883953103,3027,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-66,,true,,219569,5403,40,40,null,2994,39770,189
+1696883995699,218,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-95,text,true,,19113,818,39,39,https://demo.nopcommerce.com/electronics,210,0,0
+1696883995807,260,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-97,text,true,,19111,818,39,39,https://demo.nopcommerce.com/electronics,259,0,0
+1696883995839,301,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-96,text,true,,19111,818,39,39,https://demo.nopcommerce.com/electronics,300,0,0
+1696883995804,640,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-61,text,true,,52021,823,39,39,https://demo.nopcommerce.com/nikon-d5500-dslr,582,0,0
+1696883952347,4322,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-61,,true,,219573,5403,39,39,null,4210,39775,146
+1696883995795,908,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-65,text,true,,52013,823,38,38,https://demo.nopcommerce.com/nikon-d5500-dslr,737,0,0
+1696883952955,3973,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-65,,true,,219577,5403,38,38,null,3791,39774,253
+1696883995813,895,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-64,text,true,,52027,823,37,37,https://demo.nopcommerce.com/nikon-d5500-dslr,746,0,0
+1696883952808,4125,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-64,,true,,219571,5403,37,37,null,3960,39774,217
+1696883995859,894,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-63,text,true,,52017,823,36,36,https://demo.nopcommerce.com/nikon-d5500-dslr,845,0,0
+1696883952649,4328,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-63,,true,,219557,5403,36,36,null,4222,39776,909
+1696883995890,899,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-70,text,true,,52021,823,35,35,https://demo.nopcommerce.com/nikon-d5500-dslr,848,0,0
+1696883953700,3317,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-70,,true,,219575,5403,35,35,null,3251,39773,199
+1696883996064,939,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-98,text,true,,19123,818,34,34,https://demo.nopcommerce.com/electronics,938,0,0
+1696883996113,891,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-100,text,true,,19123,818,34,34,https://demo.nopcommerce.com/electronics,890,0,0
+1696883995921,1233,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-69,text,true,,52031,823,34,34,https://demo.nopcommerce.com/nikon-d5500-dslr,1166,0,0
+1696883953554,3828,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-69,,true,,219585,5403,34,34,null,3722,39773,141
+1696883996004,1203,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-72,text,true,,52021,823,33,33,https://demo.nopcommerce.com/nikon-d5500-dslr,1084,0,0
+1696883953999,3435,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-72,,true,,219575,5403,33,33,null,3289,39774,116
+1696883996197,1035,https://demo.nopcommerce.com/electronics,200,OK,Thread Group 1-99,text,true,,19117,818,32,32,https://demo.nopcommerce.com/electronics,1025,0,0
+1696883995794,1530,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-54,text,true,,52031,823,32,32,https://demo.nopcommerce.com/nikon-d5500-dslr,1372,0,0
+1696883951298,6251,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-54,,true,,219583,5403,32,32,null,6051,39775,149
+1696883996049,1276,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-71,text,true,,52019,823,32,32,https://demo.nopcommerce.com/nikon-d5500-dslr,1162,0,0
+1696883953852,3697,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-71,,true,,219579,5403,32,32,null,3569,39777,191
+1696883996065,1282,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-68,text,true,,52019,823,30,30,https://demo.nopcommerce.com/nikon-d5500-dslr,1260,0,0
+1696883996275,1072,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-75,text,true,,52025,823,30,30,https://demo.nopcommerce.com/nikon-d5500-dslr,1051,0,0
+1696883953404,4168,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-68,,true,,219571,5403,30,30,null,4051,39776,234
+1696883954448,3125,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-75,,true,,219569,5403,30,30,null,3075,39775,99
+1696883996072,1297,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-67,text,true,,52027,823,28,28,https://demo.nopcommerce.com/nikon-d5500-dslr,1296,0,0
+1696883953253,4349,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-67,,true,,219555,5403,28,28,null,4228,39767,234
+1696883996407,1003,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-79,text,true,,23688,819,27,27,https://demo.nopcommerce.com/camera-photo,1002,0,0
+1696883996564,925,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-84,text,true,,23684,819,27,27,https://demo.nopcommerce.com/camera-photo,924,0,0
+1696883996416,1076,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-85,text,true,,23684,819,27,27,https://demo.nopcommerce.com/camera-photo,1074,0,0
+1696883996546,953,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-86,text,true,,23684,819,27,27,https://demo.nopcommerce.com/camera-photo,953,0,0
+1696883996728,851,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-90,text,true,,23684,819,27,27,https://demo.nopcommerce.com/camera-photo,850,0,0
+1696883996534,1092,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-87,text,true,,23682,819,27,27,https://demo.nopcommerce.com/camera-photo,1090,0,0
+1696883996994,697,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-83,text,true,,23684,819,27,27,https://demo.nopcommerce.com/camera-photo,695,0,0
+1696883996545,1146,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-77,text,true,,52013,823,27,27,https://demo.nopcommerce.com/nikon-d5500-dslr,1136,0,0
+1696883954748,3168,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-77,,true,,219569,5403,27,27,null,3124,39776,132
+1696883996423,1276,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-76,text,true,,52011,823,26,26,https://demo.nopcommerce.com/nikon-d5500-dslr,1268,0,0
+1696883954599,3329,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-76,,true,,219563,5403,26,26,null,3291,39772,109
+1696883996456,1248,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-73,text,true,,52019,823,25,25,https://demo.nopcommerce.com/nikon-d5500-dslr,1243,0,0
+1696883954149,3779,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-73,,true,,219573,5403,25,25,null,3722,39777,144
+1696883996551,1167,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-74,text,true,,52013,823,24,24,https://demo.nopcommerce.com/nikon-d5500-dslr,1165,0,0
+1696883954300,3643,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-74,,true,,219549,5403,24,24,null,3612,39775,98
+1696883997448,313,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-89,text,true,,23694,819,23,23,https://demo.nopcommerce.com/camera-photo,311,0,0
+1696883997398,371,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-88,text,true,,23686,819,23,23,https://demo.nopcommerce.com/camera-photo,370,0,0
+1696883997533,244,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-91,text,true,,23682,819,23,23,https://demo.nopcommerce.com/camera-photo,244,0,0
+1696883997644,222,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-93,text,true,,23678,819,23,23,https://demo.nopcommerce.com/camera-photo,221,0,0
+1696883997705,334,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-92,text,true,,23680,819,23,23,https://demo.nopcommerce.com/camera-photo,334,0,0
+1696883997623,477,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-82,text,true,,52021,823,23,23,https://demo.nopcommerce.com/nikon-d5500-dslr,476,0,0
+1696883955499,2828,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-82,,true,,219563,5403,23,23,null,2629,39773,128
+1696883997654,839,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-80,text,true,,52013,823,22,22,https://demo.nopcommerce.com/nikon-d5500-dslr,837,0,0
+1696883955199,3524,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-80,,true,,219565,5403,22,22,null,3258,39771,103
+1696883998135,515,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-94,text,true,,23688,819,21,21,https://demo.nopcommerce.com/camera-photo,515,0,0
+1696883997803,871,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-81,text,true,,52015,823,21,21,https://demo.nopcommerce.com/nikon-d5500-dslr,865,0,0
+1696883955348,3550,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-81,,true,,219565,5403,21,21,null,3348,39777,112
+1696883997843,831,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-78,text,true,,52015,823,21,21,https://demo.nopcommerce.com/nikon-d5500-dslr,829,0,0
+1696883954898,4003,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-78,,true,,219591,5403,21,21,null,3852,39774,116
+1696883998383,318,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-95,text,true,,23690,819,19,19,https://demo.nopcommerce.com/camera-photo,314,0,0
+1696883998532,221,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-97,text,true,,23692,819,19,19,https://demo.nopcommerce.com/camera-photo,215,0,0
+1696883998606,221,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-96,text,true,,23684,819,19,19,https://demo.nopcommerce.com/camera-photo,219,0,0
+1696883999470,294,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-100,text,true,,23690,819,19,19,https://demo.nopcommerce.com/camera-photo,292,0,0
+1696883999470,305,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-98,text,true,,23686,819,19,19,https://demo.nopcommerce.com/camera-photo,305,0,0
+1696883999615,469,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-79,text,true,,52023,823,19,19,https://demo.nopcommerce.com/nikon-d5500-dslr,450,0,0
+1696883955050,5267,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-79,,true,,219581,5403,19,19,null,4967,39769,137
+1696883999697,391,https://demo.nopcommerce.com/camera-photo,200,OK,Thread Group 1-99,text,true,,23678,819,18,18,https://demo.nopcommerce.com/camera-photo,391,0,0
+1696883999694,669,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-84,text,true,,52015,823,18,18,https://demo.nopcommerce.com/nikon-d5500-dslr,646,0,0
+1696883955798,4789,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-84,,true,,219565,5403,18,18,null,4476,39776,127
+1696883999697,741,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-85,text,true,,52029,823,17,17,https://demo.nopcommerce.com/nikon-d5500-dslr,709,0,0
+1696883955950,4717,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-85,,true,,219573,5403,17,17,null,4454,39772,106
+1696883999704,743,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-86,text,true,,52019,823,16,16,https://demo.nopcommerce.com/nikon-d5500-dslr,741,0,0
+1696883956099,4579,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-86,,true,,219549,5403,16,16,null,4348,39769,100
+1696883999984,735,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-91,text,true,,52019,823,15,15,https://demo.nopcommerce.com/nikon-d5500-dslr,726,0,0
+1696883999832,887,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-87,text,true,,52023,823,15,15,https://demo.nopcommerce.com/nikon-d5500-dslr,886,0,0
+1696883956849,4099,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-91,,true,,219557,5403,15,15,null,3865,39771,109
+1696883999785,934,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-90,text,true,,52019,823,15,15,https://demo.nopcommerce.com/nikon-d5500-dslr,917,0,0
+1696883956249,4695,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-87,,true,,219555,5403,15,15,null,4411,39775,121
+1696883956698,4248,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-90,,true,,219571,5403,15,15,null,4029,39773,100
+1696883999896,823,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-83,text,true,,52031,823,15,15,https://demo.nopcommerce.com/nikon-d5500-dslr,823,0,0
+1696883955648,5296,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-83,,true,,219593,5403,15,15,null,5137,39776,102
+1696884000072,775,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-93,text,true,,52019,823,11,11,https://demo.nopcommerce.com/nikon-d5500-dslr,772,0,0
+1696883957148,3926,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-93,,true,,219563,5403,11,11,null,3707,39774,108
+1696883999967,914,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-89,text,true,,52019,823,10,10,https://demo.nopcommerce.com/nikon-d5500-dslr,905,0,0
+1696883956549,4562,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-89,,true,,219581,5403,10,10,null,4444,39771,147
+1696883999975,955,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-88,text,true,,52015,823,9,9,https://demo.nopcommerce.com/nikon-d5500-dslr,948,0,0
+1696883956398,4763,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-88,,true,,219551,5403,9,9,null,4572,39770,171
+1696884000246,707,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-92,text,true,,52015,823,8,8,https://demo.nopcommerce.com/nikon-d5500-dslr,703,0,0
+1696883956998,4180,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-92,,true,,219559,5403,8,8,null,3974,39776,137
+1696884000857,765,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-94,text,true,,52017,823,7,7,https://demo.nopcommerce.com/nikon-d5500-dslr,764,0,0
+1696883957299,4546,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-94,,true,,219565,5403,7,7,null,4480,39778,99
+1696884000906,723,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-95,text,true,,52011,823,6,6,https://demo.nopcommerce.com/nikon-d5500-dslr,717,0,0
+1696883957468,4386,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-95,,true,,219553,5403,6,6,null,4358,39776,149
+1696884000958,672,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-97,text,true,,52017,823,6,6,https://demo.nopcommerce.com/nikon-d5500-dslr,671,0,0
+1696883957748,4111,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-97,,true,,219567,5403,6,6,null,4088,39772,110
+1696884001033,627,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-96,text,true,,52015,823,4,4,https://demo.nopcommerce.com/nikon-d5500-dslr,615,0,0
+1696883957599,4287,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-96,,true,,219561,5403,4,4,null,4271,39774,120
+1696884001968,400,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-100,text,true,,52017,823,3,3,https://demo.nopcommerce.com/nikon-d5500-dslr,395,0,0
+1696883958198,4400,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-100,,true,,219581,5403,3,3,null,4390,39771,121
+1696884001981,420,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-98,text,true,,52015,823,2,2,https://demo.nopcommerce.com/nikon-d5500-dslr,418,0,0
+1696883957899,4724,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-98,,true,,219583,5403,2,2,null,4712,39779,131
+1696884002293,456,https://demo.nopcommerce.com/nikon-d5500-dslr,200,OK,Thread Group 1-99,text,true,,52021,823,1,1,https://demo.nopcommerce.com/nikon-d5500-dslr,454,0,0
+1696883958048,4928,Test,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-99,,true,,219567,5403,1,1,null,4907,39774,142
